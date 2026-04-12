@@ -1,0 +1,8 @@
+{
+  "split": "test_prefs",
+  "num_examples": 2000,
+  "pair_accuracy": 0.5285,
+  "auc": 0.533522375,
+  "mean_margin": 0.1308179931640625,
+  "std_margin": 1.2463459004626805
+}

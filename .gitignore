@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+*.tmp
+*.swp
+
+# Local caches and tracking
+.venv/
+venv/
+.cache/
+hf_cache/
+wandb/
+
+# Training artifacts and checkpoints
+outputs/**/sft/
+outputs/**/rm/
+outputs/**/dpo/
+outputs/**/ddorm/
+outputs/**/orpo/
+outputs/**/kto/
+**/checkpoint-*/
+**/optimizer.pt
+**/scheduler.pt
+**/trainer_state.json
+**/rng_state*.pth
+**/pytorch_model*.bin
+**/model.safetensors
+**/adapter_model.safetensors
+**/adapter_model.bin
+**/training_args.bin
