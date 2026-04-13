@@ -7,6 +7,8 @@ linkedin: crystal-zhangg, wechat: BestWillCome
 
 & Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyun, contact: siyu_lin@stu.pku.edu.cn 
 
+& Junxiao Chen ( @ Columbia Business School, contact: jc6619@columbia.edu 
+
 List to be added, highly welcome collaborations, please shoot an email to crystal.cheung399@gmail.com( if educational one doesn't work)
 
 Happy to connect and discuss ideas through email, and suggestion and questions are appreciated. 
