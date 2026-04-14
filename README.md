@@ -1,6 +1,6 @@
 # 🔯 DEEP DECISION OPTIMIZATION 📈
 DDO-RM for LLM Preference Optimization: A Minimal Held-Out Benchmark against DPO <p>
-Tiantian(Crystal) ZHANG @ Columbia Engineer  contact: t.zhang8@columbia.edu, 
+Tiantian(Crystal) ZHANG @ Columbia Engineering  contact: t.zhang8@columbia.edu, 
 linkedin: crystal-zhangg, wechat: BestWillCome
 
 & Jierui(Jerry) Zuo@ UW incoming Phd,Tsinghua undegrad contact: zuojr22@mails.tsinghua.edu.cn
@@ -9,7 +9,7 @@ linkedin: crystal-zhangg, wechat: BestWillCome
 
 & Junxiao Chen @ Columbia Business School, contact: jc6619@columbia.edu 
 
-List to be added, highly welcome collaborations, please shoot an email to crystal.cheung399@gmail.com( if educational one doesn't work)
+List to be added, highly welcome to discuss, please shoot an email to crystal.cheung399@gmail.com( if educational one doesn't work)
 
 Happy to connect and discuss ideas through email, and suggestion and questions are appreciated. 
 
