@@ -7,7 +7,7 @@ linkedin: crystal-zhangg, wechat: BestWillCome
 
 & Siyu Lin ( @Yuanpei College Peking University, Tecent Hunyuan, contact: siyu_lin@stu.pku.edu.cn 
 
-& Junxiao Chen @ Columbia Business School, contact: jc6619@columbia.edu 
+& Michael Chen (@columbia University, Openai, contact: yc4131@columbia.edu
 
 List to be added, highly welcome to discuss, please shoot an email to crystal.cheung399@gmail.com( if educational one doesn't work)
 
